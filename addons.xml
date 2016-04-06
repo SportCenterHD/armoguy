@@ -1,80 +1,19 @@
 <addons>
-<addon id="service.autosubs"
-    name="AutoSubs" version="1.0.0" provider-name="amet,schumi2004">
-  <requires>
-    <import addon="xbmc.python" version="2.14.0"/>
-  </requires>
-  <extension point="xbmc.service" library="default.py" start="login"></extension>  
-  <extension point="xbmc.addon.metadata">
-    <summary lang="en">Auto Search for Subtitles on Play</summary>
-    <description lang="en">Auto Search for Subtitles on Playback start if no subs are found.[CR][CR]Icon credits goes to zNET Computer Solutions http://www.znetcs.pl</description>
-    <platform>all</platform>
-    <language>en</language>
-    <license>GPL</license>
-    <website></website>
-    <source>https://github.com/amet/service.autosubs</source>
-    <forum>http://forum.xbmc.org/showthread.php?tid=198973</forum>
-    <email>schumi2004@gmail.com</email>
-  </extension>
-</addon>
-
-<addon id="plugin.audio.nlradio" name="NL Radio" version="6.8.2" provider-name="vDia Internet Applications">
-	<extension point="xbmc.python.pluginsource" library="start.py">
-		<provides>audio</provides>
-	</extension>
-	<extension  point="xbmc.addon.metadata">
-		<platform>all</platform>
-		<summary lang="nl">Nederlandse radiostreams in een plugin verwerkt</summary>
-		<description lang="nl">Luister eenvoudig naar Nederlandse radiostreams.</description>
-		<disclaimer>De radiostreams worden sinds 2005 zorgvuldig verzameld en ingedeeld door bigfoot87.com</disclaimer>
-		<language>nl</language>
-		<platform>all</platform>
-	</extension>
-</addon>
-
-<addon id="service.subtitles.opensubtitlesBeta"
-       name="OpenSubtitles.org (Unofficial)"
-       version="5.0.10"
-       provider-name="amet,Mafarricos">
-  <requires>
-    <import addon="xbmc.python" version="2.1.0"/>
-  </requires>
-  <extension point="xbmc.subtitle.module"
-             library="service.py" />
-  <extension point="xbmc.addon.metadata">
-    <summary lang="en">OpenSubtitles (Unofficial)</summary>
-    <description lang="en">Search and download subtitles from opensubtitles.org. This unofficial version permits to choose preference language in results</description>
-    <disclaimer lang="en"></disclaimer>
-    <summary lang="pt">OpenSubtitles (Não Oficial)</summary>
-    <description lang="pt">Pesquisa e download de legendas de opensubtitles.org. Esta versão não oficial permite nas definições escolher o idioma para apresentar legendas primeiro</description>
-    <disclaimer lang="pt"></disclaimer>	
-    <platform>all</platform>
-    <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-    <source>https://github.com/Mafarricos/service.subtitles.opensubtitles</source>    
-  </extension>
-</addon>
-
-<addon id="service.subtitles.opensubtitles"
-       name="OpenSubtitles.org"
-       version="5.0.14"
-       provider-name="amet">
-  <requires>
-    <import addon="xbmc.python" version="2.1.0"/>
-  </requires>
-  <extension point="xbmc.subtitle.module"
-             library="service.py" />
-  <extension point="xbmc.addon.metadata">
-    <summary lang="en">OpenSubtitles</summary>
-    <description lang="en">Search and download subtitles from opensubtitles.org</description>
-    <description lang="zh">从 opensubtitles.org 搜索并下载字幕</description>
-    <disclaimer lang="en"></disclaimer>
-    <platform>all</platform>
-    <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-    <forum>http://forum.xbmc.org/showthread.php?tid=183114</forum>
-    <website></website>
-    <email></email>
-    <source>https://github.com/amet/service.subtitles.opensubtitles</source>    
-  </extension>
+    <addon id="repository.galaxy" name="Project Galaxy Repo" version="0.0.1" provider-name="Galaxy">
+        <requires>
+            <import addon="xbmc.addon" version="12.0.0"/>
+        </requires>
+        <extension point="xbmc.addon.repository" name="Galaxy Repo">
+            <info compressed="false">https://raw.githubusercontent.com/Project-Galaxy/repo/master/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/Project-Galaxy/repo/master/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/Project-Galaxy/repo/master/zips/</datadir>
+            <hashes>false</hashes>
+        </extension>
+        <extension point="xbmc.addon.metadata">
+            <summary></summary>
+            <description></description>
+            <platform>all</platform>
+    </extension>
 </addon>
 
 <addon id="plugin.program.hayboxinstaller" name="HAYbox Installer/Updater" version="1.0.0" provider-name="ArmoGuy">
@@ -135,7 +74,7 @@
   </extension>
 </addon>
 
-<addon id="repository.armoguy" name="ArmoGuy Repository" version="1.0.0" provider-name="ArmoGuy">
+<addon id="repository.armoguy" name="ArmoGuy Repository" version="1.0.1" provider-name="ArmoGuy">
 	<extension point="xbmc.addon.repository" name="DOKITV.NL Repository">
 		<info compressed="false">http://raw.github.com/armoguy/armoguy/master/addons.xml</info>
 		<checksum>http://raw.github.com/armoguy/armoguy/master/addons.xml.md5</checksum>
@@ -143,7 +82,7 @@
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary>The Official ArmoGuy repository</summary>
-		<description>This repository contains all Adodns made by ArmoGuy.</description>
+		<description>This repository contains all addons made by ArmoGuy.</description>
 		<disclaimer>The owners and submitters to this repository do not host or distribute any of the content displayed by these addons nor do they have any affiliation with the content providers.</disclaimer>
 		<platform>all</platform>
 	</extension>
