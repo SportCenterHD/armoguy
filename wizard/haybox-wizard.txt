@@ -1,0 +1,9 @@
+name="HAYbox Installeren"
+url="http://aram-design.nl/full.zip"
+img="https://raw.githubusercontent.com/armoguy/armoguy/master/wizard/installeren.png"
+description="HAYbox Installeren/Opnieuw Installeren"
+
+name="HAYbox Update"
+url="http://aram-design.nl/update.zip"
+img="https://raw.githubusercontent.com/armoguy/armoguy/master/wizard/updates.png"
+description="HAYbox Updaten"
