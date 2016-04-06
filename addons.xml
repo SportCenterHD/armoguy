@@ -1,4 +1,38 @@
 ﻿<addons>
+<addon id="skin.haybox" version="1.0.0" name="HAYbox Skin" provider-name="ArmoGuy">
+    <requires>
+        <import addon="xbmc.gui" version="5.3.0"/>
+        <import addon="service.library.data.provider" version="0.0.4"/>
+        <import addon="script.artwork.downloader" version="12.0.0"/>
+    </requires>
+    <extension
+            point="xbmc.gui.skin"
+            defaultthemename="Textures.xbt"
+            debugging="false">
+        <res width="1920" height="1080" aspect="16:9" default="true" folder="1080i" />
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>HAYbox Skin by ArmoGuy</summary>
+        <platform>all</platform>
+        <licence></licence>
+        <email></email>
+    </extension>
+</addon>
+
+<addon id="plugin.program.haybox" name="HAYbox" version="1.0.0" provider-name="ArmoGuy">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>executable</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en"></summary>
+    <description lang="en"></description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
 <addon id="plugin.video.dailymotion_com" name="DailyMotion.com" version="2.1.6" provider-name="AddonScriptorDE (Modified by ArmoGuy)">
     <requires>
         <import addon="xbmc.python" version="2.1.0"/>
