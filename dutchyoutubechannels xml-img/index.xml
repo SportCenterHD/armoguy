@@ -20,7 +20,7 @@
 
 <channel>
 <name>[COLOR red]Kids[/COLOR]</name>
-<thumbnail>https://raw.githubusercontent.com/armoguy/armoguy/master/dutchyoutubechannels%20xml-img/icon.pnghttps://raw.githubusercontent.com/armoguy/armoguy/master/dutchyoutubechannels%20xml-img/icon.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/armoguy/armoguy/master/dutchyoutubechannels%20xml-img/icon.png</thumbnail>
 <fanart>https://raw.githubusercontent.com/armoguy/armoguy/master/dutchyoutubechannels%20xml-img/fanart.jpg</fanart>
 <link></link>
 <externallink>HIER KOMT DE LINK!</externallink>
@@ -29,7 +29,7 @@
 <channel>
 <name>[COLOR red]Music[/COLOR]</name>
 <thumbnail>https://raw.githubusercontent.com/armoguy/armoguy/master/dutchyoutubechannels%20xml-img/icon.png</thumbnail>
-<fanart>https://raw.githubusercontent.com/armoguy/armoguy/master/dutchyoutubechannels%20xml-img/fanart.jpghttps://raw.githubusercontent.com/armoguy/armoguy/master/dutchyoutubechannels%20xml-img/fanart.jpg</fanart>
+<fanart>https://raw.githubusercontent.com/armoguy/armoguy/master/dutchyoutubechannels%20xml-img/fanart.jpg</fanart>
 <link></link>
 <externallink>HIER KOMT DE LINK!</externallink>
 </channel>
@@ -37,15 +37,15 @@
 <channel>
 <name>[COLOR red]Bekende Kanalen[/COLOR]</name>
 <thumbnail>https://raw.githubusercontent.com/armoguy/armoguy/master/dutchyoutubechannels%20xml-img/icon.png</thumbnail>
-<fanart>https://raw.githubusercontent.com/armoguy/armoguy/master/dutchyoutubechannels%20xml-img/fanart.jpghttps://raw.githubusercontent.com/armoguy/armoguy/master/dutchyoutubechannels%20xml-img/fanart.jpghttps://raw.githubusercontent.com/armoguy/armoguy/master/dutchyoutubechannels%20xml-img/fanart.jpg</fanart>
+<fanart>https://raw.githubusercontent.com/armoguy/armoguy/master/dutchyoutubechannels%20xml-img/fanart.jpg</fanart>
 <link></link>
 <externallink>HIER KOMT DE LINK!</externallink>
 </channel>
 
 <channel>
 <name>[COLOR red]Overige[/COLOR]</name>
-<thumbnail>https://ignorme</thumbnail>
-<fanart>https://ignorme</fanart>
+<thumbnail>https://raw.githubusercontent.com/armoguy/armoguy/master/dutchyoutubechannels%20xml-img/icon.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/armoguy/armoguy/master/dutchyoutubechannels%20xml-img/fanart.jpg</fanart>
 <link></link>
 <externallink>HIER KOMT DE LINK!</externallink>
 </channel>
