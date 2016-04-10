@@ -95,8 +95,8 @@
   </extension>
 </addon>
 
-<addon id="repository.armoguy" name="ArmoGuy Repository" version="1.0.1" provider-name="ArmoGuy">
-	<extension point="xbmc.addon.repository" name="DOKITV.NL Repository">
+<addon id="repository.armoguy" name="ArmoGuy Repository" version="1.0.2" provider-name="ArmoGuy">
+	<extension point="xbmc.addon.repository" name="ArmoGuy Repository">
 		<info compressed="false">http://raw.github.com/armoguy/armoguy/master/addons.xml</info>
 		<checksum>http://raw.github.com/armoguy/armoguy/master/addons.xml.md5</checksum>
 		<datadir zip="true">http://raw.github.com/armoguy/armoguy/master</datadir>
