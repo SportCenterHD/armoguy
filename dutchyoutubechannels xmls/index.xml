@@ -4,7 +4,7 @@
 
 <channel>
 <name>[COLOR red]Voetbal[/COLOR]</name>
-<thumbnail>https://raw.githubusercontent.com/armoguy/armoguy/master/dutchyoutubechannels%20xml/icon.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/armoguy/armoguy/master/dutchyoutubechannels%20xmls/icon.png</thumbnail>
 <fanart>https://raw.githubusercontent.com/armoguy/armoguy/master/dutchyoutubechannels%20xmls/fanart.jpg</fanart>
 <link></link>
 <externallink>https://raw.githubusercontent.com/armoguy/armoguy/master/dutchyoutubechannels%20xmls/voetbal.xml</externallink>
@@ -13,7 +13,7 @@
 <channel>
 <name>[COLOR red]Pranks[/COLOR]</name>
 <thumbnail>https://raw.githubusercontent.com/armoguy/armoguy/master/dutchyoutubechannels%20xmls/icon.png</thumbnail>
-<fanart>https://raw.githubusercontent.com/armoguy/armoguy/master/dutchyoutubechannels%20xml/fanart.jpg</fanart>
+<fanart>https://raw.githubusercontent.com/armoguy/armoguy/master/dutchyoutubechannels%20xmls/fanart.jpg</fanart>
 <link></link>
 <externallink>https://raw.githubusercontent.com/armoguy/armoguy/master/dutchyoutubechannels%20xmls/pranks.xml</externallink>
 </channel>
