@@ -38,7 +38,7 @@
 
 <addon id="plugin.video.dutchyoutubechannels"
        name="DutchYoutubeChannels"
-       version="1.0.1"
+       version="1.0.2"
        provider-name="ArmoGuy">
   <requires>
     <import addon="xbmc.python" />
