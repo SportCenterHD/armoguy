@@ -4,7 +4,6 @@
        version="1.0.1"
        provider-name="ArmoGuy">
   <requires>
-    <import addon="xbmc.python" />
 	<import addon="script.module.t0mm0.common" />
     <import addon="script.module.beautifulsoup" />
     <import addon="script.module.simple.downloader" />
