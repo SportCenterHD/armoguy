@@ -6,7 +6,7 @@
   <requires>
 	<import addon="script.module.t0mm0.common" />
     <import addon="script.module.simple.downloader" />
-	<import addon="plugn.video.youtube" />
+	<import addon="plugin.video.youtube" />
   </requires>
   <extension point="xbmc.python.pluginsource" library="default.py">
     <provides>video</provides>
