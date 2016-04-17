@@ -1,11 +1,12 @@
 <addons>
 <addon id="plugin.video.dutchyoutubechannels"
        name="DutchYoutubeChannels"
-       version="1.0.3"
+       version="1.0.4"
        provider-name="ArmoGuy">
   <requires>
 	<import addon="script.module.t0mm0.common" />
     <import addon="script.module.simple.downloader" />
+	<import addon="script.module.beautifulsoup" />	
     <import addon="plugin.video.youtube" />	
   </requires>
   <extension point="xbmc.python.pluginsource" library="default.py">
