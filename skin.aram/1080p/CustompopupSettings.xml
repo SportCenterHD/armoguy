@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<window type="dialog" id="1120">
+    <defaultcontrol always="true">9000</defaultcontrol>
+    <include>DialogOpenClose</include>
+    <controls>
+        <control type="group">
+            <control type="image" description="List back">
+                <centerleft>960</centerleft>
+				<centertop>540</centertop>
+				<width>740</width>
+				<height>610</height>
+                <aspectratio>stretch</aspectratio>
+                <texture border="150" colordiffuse="$VAR[bgcolor1]">images/Dialog.png</texture>
+            </control>
+            <control type="grouplist" id="9000">
+                <include>DialogGLs</include>
+                <control type="button" id="699">
+                    <include>DialogButt</include>
+                    <label>$LOCALIZE[128] $LOCALIZE[5]</label>
+                    <onclick>Close</onclick>
+                    <onclick>ActivateWindow(Settings)</onclick>
+                </control>
+          <control type="button" id="700">
+            <include>DialogButt</include>
+            <label>Mediaplayer X9 Instellingen</label>
+            <onclick>Close</onclick>
+           <onclick>ActivateWindow(SkinSettings)</onclick>
+		   </control>
+		  <control type="button" id="703">
+            <include>DialogButt</include>
+            <label>Start menu layout aanpassen</label>
+            <onclick>Close</onclick>
+           <onclick>ActivateWindow(1117)</onclick>
+         </control>
+         	<control type="button" id="702">
+          <include>DialogButt</include>
+          <label>Systeem Informatie</label>
+          <onclick>Close</onclick>
+	  <onclick>activatewindow(systeminfo)</onclick>
+        </control>
+	<control type="button" id="705" description="Addons">
+          <include>DialogButt</include>
+          <label>Add-ons</label>
+          <onclick>Close</onclick>
+          <onclick>ActivateWindow(1118)</onclick>
+		  </control>
+	      <control type="button" id="706" description="Update">
+          <include>DialogButt</include>
+          <label>Update</label>
+          <onclick>Close</onclick>
+          <onclick>RunAddon($INFO[Skin.String(HomeAddon.1.Label)])</onclick>
+        </control>
+        </control>
+        </control>
+    </controls>
+</window>
