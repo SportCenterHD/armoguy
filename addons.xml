@@ -1,5 +1,5 @@
 <addons>
-<addon id="skin.aram" version="2.1.0" name="HAYbox Skin" provider-name="ArmoGuy">
+<addon id="skin.aram" version="2.1.1" name="HAYbox Skin" provider-name="ArmoGuy">
     <requires>
         <import addon="plugin.video.youtube" />	
         <import addon="plugin.video.merojax.tv" />
@@ -412,7 +412,7 @@
     </extension>
 </addon>
 
-<addon id="plugin.video.merojax.tv" name="Merojax.TV" version="1.0.3" provider-name="ArmoGuy">
+<addon id="plugin.video.merojax.tv" name="Merojax.TV" version="1.0.4" provider-name="ArmoGuy">
 
   <requires>
     <import addon="script.module.simplejson" version="3.3.0"/>
