@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<item>
+<title>Armenia TV</title>
+<link>
+http://62.210.91.25:8080/hls1/armenia-tv.m3u8?token=$doregex[file]
+<regex>
+<name>file</name>
+<expres>token=([^']*)</expres>
+<page>http://www.hayastantv.club/tv/armeniatv.php</page>
+<referer>
+http://www.hayastantv.club/
+</referer>
+</regex>
+</link>
+<thumbnail>
+http://ignorme
+</thumbnail>
+</item>
