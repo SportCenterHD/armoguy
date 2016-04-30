@@ -3,7 +3,7 @@
 <channels>
 
 <channel>
-<name>[COLOR red]Sport[/COLOR]</name>
+<name>[COLOR red]*****SPORTS Channels*****[/COLOR]</name>
 <thumbnail>https://raw.githubusercontent.com/armoguy/armoguy/master/dutchyoutubechannels%20xmls/icon.png</thumbnail>
 <fanart>https://raw.githubusercontent.com/armoguy/armoguy/master/dutchyoutubechannels%20xmls/fanart.jpg</fanart>
 <link></link>
@@ -11,7 +11,7 @@
 </channel>
 
 <channel>
-<name>[COLOR red]Pranks[/COLOR]</name>
+<name>[COLOR red]*****PRANKS Channels*****[/COLOR]</name>
 <thumbnail>https://raw.githubusercontent.com/armoguy/armoguy/master/dutchyoutubechannels%20xmls/icon.png</thumbnail>
 <fanart>https://raw.githubusercontent.com/armoguy/armoguy/master/dutchyoutubechannels%20xmls/fanart.jpg</fanart>
 <link></link>
@@ -19,7 +19,7 @@
 </channel>
 
 <channel>
-<name>[COLOR red]Vlogs[/COLOR]</name>
+<name>[COLOR red]*****VLOGS Channels*****[/COLOR]</name>
 <thumbnail>https://raw.githubusercontent.com/armoguy/armoguy/master/dutchyoutubechannels%20xmls/icon.png</thumbnail>
 <fanart>https://raw.githubusercontent.com/armoguy/armoguy/master/dutchyoutubechannels%20xmls/fanart.jpg</fanart>
 <link></link>
@@ -27,7 +27,7 @@
 </channel>
 
 <channel>
-<name>[COLOR red]TV[/COLOR]</name>
+<name>[COLOR red]*****TV Channels*****[/COLOR]</name>
 <thumbnail>https://raw.githubusercontent.com/armoguy/armoguy/master/dutchyoutubechannels%20xmls/icon.png</thumbnail>
 <fanart>https://raw.githubusercontent.com/armoguy/armoguy/master/dutchyoutubechannels%20xmls/fanart.jpg</fanart>
 <link></link>
@@ -35,7 +35,7 @@
 </channel>
 
 <channel>
-<name>[COLOR red]Kids[/COLOR]</name>
+<name>[COLOR red]*****KIDS Channels*****[/COLOR]</name>
 <thumbnail>https://raw.githubusercontent.com/armoguy/armoguy/master/dutchyoutubechannels%20xmls/icon.png</thumbnail>
 <fanart>https://raw.githubusercontent.com/armoguy/armoguy/master/dutchyoutubechannels%20xmls/fanart.jpg</fanart>
 <link></link>
@@ -43,7 +43,7 @@
 </channel>
 
 <channel>
-<name>[COLOR red]Music[/COLOR]</name>
+<name>[COLOR red]*****MUSIC Channels*****[/COLOR]</name>
 <thumbnail>https://raw.githubusercontent.com/armoguy/armoguy/master/dutchyoutubechannels%20xmls/icon.png</thumbnail>
 <fanart>https://raw.githubusercontent.com/armoguy/armoguy/master/dutchyoutubechannels%20xmls/fanart.jpg</fanart>
 <link></link>
@@ -51,7 +51,7 @@
 </channel>
 
 <channel>
-<name>[COLOR red]Tech[/COLOR]</name>
+<name>[COLOR red]*****TECH Channels*****[/COLOR]</name>
 <thumbnail>https://raw.githubusercontent.com/armoguy/armoguy/master/dutchyoutubechannels%20xmls/icon.png</thumbnail>
 <fanart>https://raw.githubusercontent.com/armoguy/armoguy/master/dutchyoutubechannels%20xmls/fanart.jpg</fanart>
 <link></link>
@@ -59,12 +59,11 @@
 </channel>
 
 <channel>
-<name>[COLOR red]Overige[/COLOR]</name>
+<name>[COLOR red]*****OVERIGE Channels*****[/COLOR]</name>
 <thumbnail>https://raw.githubusercontent.com/armoguy/armoguy/master/dutchyoutubechannels%20xmls/icon.png</thumbnail>
 <fanart>https://raw.githubusercontent.com/armoguy/armoguy/master/dutchyoutubechannels%20xmls/fanart.jpg</fanart>
 <link></link>
 <externallink>https://raw.githubusercontent.com/armoguy/armoguy/master/dutchyoutubechannels%20xmls/overige.xml</externallink>
 </channel>
-
 
 </channels>
