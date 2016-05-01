@@ -1,5 +1,5 @@
 <addons>
-<addon id="skin.aram" version="9992.9992.9992" name="HAYbox Skin" provider-name="ArmoGuy">
+<addon id="skin.aram" version="9993.9993.9993" name="HAYbox Skin" provider-name="ArmoGuy">
     <requires>
         <import addon="plugin.video.youtube" />	
         <import addon="plugin.video.merojax.tv" />
