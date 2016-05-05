@@ -1,19 +1,19 @@
 <addons>
+
 <addon id="plugin.video.nliptv"
        name="NL IPTV"
-       version="1.0.0"
+       version="1.0.1"
        provider-name="ArmoGuy">
   <requires>
-    <import addon="xbmc.python" version="2.1.0"/>
-    <import addon="script.module.beautifulsoup" version="3.2.1"/>
-    <import addon="script.module.simple.downloader" version="0.9.4"/>
+    <import addon="script.module.beautifulsoup" />
+    <import addon="script.module.simple.downloader" />
     <import addon="script.module.beautifulsoup4" />
-    <import addon="script.module.simple.downloader" version="0.9.4"/>
+    <import addon="script.module.simple.downloader" />
     <import addon="script.module.requests" />
     <import addon="script.module.httplib2" />
     <import addon="script.module.simplejson" /> 
-    <import addon="script.common.plugin.cache" version="2.5.2"/>
-    <import addon="script.module.metahandler" version="2.5.1"/>
+    <import addon="script.common.plugin.cache" />
+    <import addon="script.module.metahandler" />
   </requires>
   <extension point="xbmc.python.pluginsource" library="default.py">
     <provides>video</provides>
@@ -25,6 +25,7 @@ Alle inhoud is copyright van hun respectievelijke eigenaars.</description>
     <platform>all</platform>
   </extension>
 </addon>
+
 
 <addon id="skin.aram" version="9994.9994.9994" name="HAYbox Skin" provider-name="ArmoGuy">
     <requires>
