@@ -1,4 +1,31 @@
 <addons>
+<addon id="plugin.video.nliptv"
+       name="NL IPTV"
+       version="1.0.0"
+       provider-name="ArmoGuy">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.beautifulsoup" version="3.2.1"/>
+    <import addon="script.module.simple.downloader" version="0.9.4"/>
+    <import addon="script.module.beautifulsoup4" />
+    <import addon="script.module.simple.downloader" version="0.9.4"/>
+    <import addon="script.module.requests" />
+    <import addon="script.module.httplib2" />
+    <import addon="script.module.simplejson" /> 
+    <import addon="script.common.plugin.cache" version="2.5.2"/>
+    <import addon="script.module.metahandler" version="2.5.1"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">NL IPTV</summary>
+    <description lang="en">Wij zijn NIET de eigenaar van de streams die in NL IPTV zijn te vinden.
+Alle inhoud is copyright van hun respectievelijke eigenaars.</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
 <addon id="skin.aram" version="9994.9994.9994" name="HAYbox Skin" provider-name="ArmoGuy">
     <requires>
         <import addon="plugin.video.youtube" />	
@@ -21,24 +48,6 @@
         <email></email>
     </extension>
 </addon>
-
-<addon id="plugin.video.dutchyoutubechannels"
-       name="DutchYoutubeChannels"
-       version="1.0.5"
-       provider-name="ArmoGuy">
-  <requires>
-	<import addon="script.module.t0mm0.common" />
-    <import addon="script.module.simple.downloader" />
-	<import addon="script.module.beautifulsoup" />	
-  </requires>
-  <extension point="xbmc.python.pluginsource" library="default.py">
-    <provides>video</provides>
-  </extension>
-  <extension point="xbmc.addon.metadata">
-    <platform>all</platform>
-  </extension>
-</addon>
-
 
 <addon id="script.module.beautifulsoup"
        name="BeautifulSoup"
