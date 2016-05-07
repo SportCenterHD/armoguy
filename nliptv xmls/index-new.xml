@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<channels>
+
+<channel>
+<name>[COLOR red]*****[/COLOR][COLOR white]SERVER 1[/COLOR][COLOR blue]*****[/COLOR]</name>
+<thumbnail>https://ignorme</thumbnail>
+<fanart>https://ignorme</fanart>
+<link></link>
+<externallink>https://raw.githubusercontent.com/armoguy/armoguy/master/nliptv%20xmls/index.xml</externallink>
+</channel>
+
+<channel>
+<name>[COLOR red]*****[/COLOR][COLOR white]SERVER 2 (BINNENKORT)[/COLOR][COLOR blue]*****[/COLOR]</name>
+<thumbnail>https://ignorme</thumbnail>
+<fanart>https://ignorme</fanart>
+<link></link>
+<externallink>https://</externallink>
+</channel>
+
+<channel>
+<name>[COLOR red]*****[/COLOR][COLOR white]SERVER 3 (BINNENKORT)[/COLOR][COLOR blue]*****[/COLOR]</name>
+<thumbnail>https://ignorme</thumbnail>
+<fanart>https://ignorme</fanart>
+<link></link>
+<externallink>https://</externallink>
+</channel>
+
+<channel>
+<name>[COLOR red]*****[/COLOR][COLOR white]SERVER 4 (BINNENKORT)[/COLOR][COLOR blue]*****[/COLOR]</name>
+<thumbnail>https://ignorme</thumbnail>
+<fanart>https://ignorme</fanart>
+<link></link>
+<externallink>https://</externallink>
+</channel>
+
+</channels>
