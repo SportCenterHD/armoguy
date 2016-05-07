@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 
 <channels>
+<channel>
+<name>[COLOR red]*****[/COLOR][COLOR white]NL IPTV SERVERS[/COLOR][COLOR blue]*****[/COLOR]</name>
+<thumbnail>https://ignorme</thumbnail>
+<fanart>https://ignorme</fanart>
+<link></link>
+<externallink>https://</externallink>
+</channel>
 
 <channel>
 <name>[COLOR red]*****[/COLOR][COLOR white]SERVER 1[/COLOR][COLOR blue]*****[/COLOR]</name>
