@@ -6,7 +6,7 @@
 <channel>
 <name>[COLOR red]*****[/COLOR][COLOR white]SERVER 1[/COLOR][COLOR blue]*****[/COLOR]</name>
 <thumbnail>https://raw.githubusercontent.com/armoguy/armoguy/master/nliptv%20xmls/server1.png</thumbnail>
-<fanart>https://ignorme</fanart>
+<fanart>https://raw.githubusercontent.com/armoguy/armoguy/master/nliptv%20xmls/fanart.jpg</fanart>
 <link></link>
 <externallink>https://raw.githubusercontent.com/armoguy/armoguy/master/nliptv%20xmls/index.xml</externallink>
 </channel>
@@ -14,7 +14,7 @@
 <channel>
 <name>[COLOR red]*****[/COLOR][COLOR white]SERVER 2[/COLOR][COLOR blue]*****[/COLOR]</name>
 <thumbnail>https://raw.githubusercontent.com/armoguy/armoguy/master/nliptv%20xmls/server2.png</thumbnail>
-<fanart>https://ignorme</fanart>
+<fanart>https://raw.githubusercontent.com/armoguy/armoguy/master/nliptv%20xmls/fanart.jpg</fanart>
 <link></link>
 <externallink>https://raw.githubusercontent.com/armoguy/armoguy/master/nliptv%20xmls/server2.xml</externallink>
 </channel>
@@ -22,7 +22,7 @@
 <channel>
 <name>[COLOR red]*****[/COLOR][COLOR white]SERVER 3[/COLOR][COLOR blue]*****[/COLOR]</name>
 <thumbnail>https://raw.githubusercontent.com/armoguy/armoguy/master/nliptv%20xmls/server3.png</thumbnail>
-<fanart>https://ignorme</fanart>
+<fanart>https://raw.githubusercontent.com/armoguy/armoguy/master/nliptv%20xmls/fanart.jpg</fanart>
 <link></link>
 <externallink>https://</externallink>
 </channel>
@@ -30,7 +30,7 @@
 <channel>
 <name>[COLOR red]*****[/COLOR][COLOR white]SERVER 4[/COLOR][COLOR blue]*****[/COLOR]</name>
 <thumbnail>https://raw.githubusercontent.com/armoguy/armoguy/master/nliptv%20xmls/server4.png</thumbnail>
-<fanart>https://ignorme</fanart>
+<fanart>https://raw.githubusercontent.com/armoguy/armoguy/master/nliptv%20xmls/fanart.jpg</fanart>
 <link></link>
 <externallink>https://</externallink>
 </channel>
